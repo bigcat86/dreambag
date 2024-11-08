@@ -22,7 +22,7 @@
     "jsx": "react"
   },
   "include": [
-    "client/src",
+    "client/src"
   ],
   "exclude": ["node_modules", "**/*.test.tsx"]
 }
